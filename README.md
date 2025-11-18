@@ -1,8 +1,13 @@
-# 💖 Hi there, I'm Zahira! 
+# Hi there, I'm Zahira! 
 
-**🌸 Web Full Stack Develope ✨**
+<div align="center">
 
-*Building beautiful, functional web experiences from frontend to backend with a touch of feminine magic!*
+![Sparkle Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Web+Developer)
+
+<img src="https://i.pinimg.com/originals/7c/77/3a/7c773a83d0c2546e6d6c3c9c7c7c3c7c.gif" width="200" height="200" alt="pink sparkles">
+
+</div>
+
 
 ---
 
@@ -57,59 +62,6 @@ const zahira = {
 ![Agile](https://img.shields.io/badge/Agile-%230175C2.svg?style=for-the-badge&logo=agile&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-%230078D7.svg?style=for-the-badge&logo=scrum&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-%23000000.svg?style=for-the-badge&logo=oop&logoColor=white)
-
-</div>
-
-## Pink Sparkle Animation
-
-<div align="center">
-
-![Sparkle Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&height=50&lines=Welcome+to+my+world;Code+with+style;🎀+Design+with+passion+🎀;+Create+with+love+)
-
-<img src="https://i.pinimg.com/originals/7c/77/3a/7c773a83d0c2546e6d6c3c9c7c7c3c7c.gif" width="200" height="200" alt="pink sparkles">
-
-</div>
-
-## Featured Projects
-
-### 🎬 **MovieGirls** - Full Stack Movie Platform
-A beautiful movie discovery website with responsive design and multiple genres
-- **Frontend:** HTML5, CSS3, JavaScript
-- **Backend:** PHP, MySQL
-- **Features:** Responsive design, category filtering, contact forms
-- **🎀 Style:** Girly aesthetic with dark theme and pink accents
-- [View Project](https://github.com/ZahiraK/movies-suggestions)
-
-### 🎵 **Advanced Music Player** - Interactive Web App
-A sleek music player with playlist management and theme switching
-- **Tech:** HTML5, CSS3, JavaScript, Local Storage
-- **Features:** Dark/Light theme, progress bars, volume control
-- **🎀 Style:** Gradient backgrounds with feminine touch
-- [View Project](https://github.com/ZahiraK/music-player)
-
-## My Development Philosophy
-
-<div align="center">
-
-> *"I believe that beautiful code should create beautiful experiences. I pour my love for design into every line of code, ensuring that functionality meets aesthetics in perfect harmony."*
-
-</div>
-
-### What I Bring to the Table:
-- **🎀 Feminine Design Sensibility** - Creating interfaces that are both beautiful and intuitive
-- **🔧 Full Stack Expertise** - From database design to pixel-perfect frontends
-- **📊 Structured Thinking** - MCD/MLD, UML, and Agile methodologies
-- **🎨 Design-First Approach** - Because I love designing more than coding!
-- **🔄 Responsive & Adaptive** - Ensuring great experiences on all devices
-
-## Currently Sprinkling Magic On...
-
-<div align="center">
-
-✨ Advanced React components with beautiful animations  
-🎀 Improving my Laravel backend architecture skills  
-🌸 Learning more about microservices and API design  
-💫 Creating more girly-themed UI components and templates
 
 </div>
 
